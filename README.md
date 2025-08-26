@@ -6,10 +6,10 @@ With a Master’s in Information System Security, 6+ years in IT operations at D
 ---
 
 ## 📂 Repository Structure
-- ** /letsdefend-students/ ** → Labs and notes from LetsDefend Cybersecurity for Students Path *(In Progress)*  
-- ** /letsdefend-soc/ ** → SOC Analyst labs: phishing, malware, SIEM log triage *(Planned)*  
-- ** /azure-labs/ ** → Azure security labs with Sentinel & Defender for Cloud *(Planned)*  
-- ** /academic-projects/ ** → Projects from my Master’s degree (Risk Management Plan, Secure Network Design, Cloud Security Research)
+- **/letsdefend-students/** → Labs and notes from LetsDefend Cybersecurity for Students Path *(In Progress)*  
+- **/letsdefend-soc/** → SOC Analyst labs: phishing, malware, SIEM log triage *(Planned)*  
+- **/azure-labs/** → Azure security labs with Sentinel & Defender for Cloud *(Planned)*  
+- **/academic-projects/** → Projects from my Master’s degree (Risk Management Plan, Secure Network Design, Cloud Security Research)
 
 ---
 

@@ -30,6 +30,5 @@ Welcome! 👋 This repository showcases my **hands-on labs, academic projects, a
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/dkaveriappa/ 
-- Resume: [link to PDF]
 
 ---

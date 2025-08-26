@@ -1,7 +1,6 @@
 # Cybersecurity Portfolio – Dev Kaveriappa
 
-Welcome! 👋 This repository showcases my **hands-on labs, academic projects, and SOC training** as I build my career in cybersecurity.  
-With a Master’s in Information System Security, 6+ years in IT operations at Dell Technologies, and CompTIA Security+, I’m focused on **SOC analysis, cloud security, and vulnerability management**.
+Welcome! 👋 This repository showcases my **hands-on labs, academic projects, and SOC training** as I build my career in cybersecurity. With a Master’s in Information System Security, 6+ years in IT operations at Dell Technologies, and CompTIA Security+, I’m focused on **SOC analysis, cloud security, and vulnerability management**.
 
 ---
 
